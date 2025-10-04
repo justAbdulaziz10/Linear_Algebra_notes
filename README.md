@@ -17,7 +17,6 @@ Each folder corresponds to one lecture.
 
 ## 🚀 Usage
 You can read the notes directly here on GitHub.  
-Some notes may also be provided in PDF format for easy printing.
 
 ## 🤝 Contributions
 If you find mistakes or have better explanations, feel free to open an issue or submit a pull request.
