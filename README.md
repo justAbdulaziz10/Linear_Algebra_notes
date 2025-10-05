@@ -8,6 +8,7 @@ The goal is to summarize each lecture clearly, highlight key concepts, and provi
 
 ## 🗂 Structure
 - `Lec 1 | Introduction/` → Notes for Lecture 1
+- `Lec 2 | Elimination with Matrices/` → Notes for Lecture 2
 - …
 Each folder corresponds to one lecture.
 
