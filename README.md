@@ -10,6 +10,7 @@ The goal is to summarize each lecture clearly, highlight key concepts, and provi
 - `Lec 1 | Introduction/` → Notes for Lecture 1
 - `Lec 2 | Elimination with Matrices/` → Notes for Lecture 2
 - `Lec 3 | Multiplication and Inverse Matrices/` → Notes for Lecture 3
+- etc..
 - …
 Each folder corresponds to one lecture.
 
